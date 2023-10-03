@@ -101,19 +101,19 @@ export const FEEDBACK_ANALYSIS = () => {
               
               </div>
               <div className='col-lg-2 p-1 mb-5 mt-3 '>
-              <span className='custom-div text-center clr '>Curricular Restructuring <br/><span className='text-center ml-5'>Process</span></span>
+              <span className='custom-div text-center clr '>ICT Tools <br/><span className='text-center ml-5'></span></span>
               </div>
               <div className='col-lg-1'>
               
               </div>
               <div className='col-lg-2 p-1 mb-5 mt-3 '>
-              <span className='custom-div text-center clr '>Curricular Restructuring <br/><span className='text-center ml-5'>Process</span></span>
+              <span className='custom-div text-center clr '>Photographs of ICT Enabled Teaching <br/><span className='text-center ml-5'></span></span>
               </div>
               <div className='col-lg-1'>
               
               </div>
               <div className='col-lg-3 p-1 mb-5 mt-3 '>
-              <span className='custom-div text-center clr '>Curricular Restructuring <br/><span className='text-center ml-5'>Process</span></span>
+              <span className='custom-div text-center clr '>ICT Resources<br/><span className='text-center ml-5'></span></span>
               </div>
               <div className='col-lg-3'>
              
